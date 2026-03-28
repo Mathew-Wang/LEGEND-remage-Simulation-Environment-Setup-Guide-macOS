@@ -6,10 +6,25 @@ We will start all the way from an introduction to what remage is, then move on t
 
 So let's start, shall we?
 
+<details>
+<summary> I use VS Code. </summary>
+I use Visual Studio Code (VS Code) as editor because of its tidiness. To be honest, I'm not sure whether other code editors will work or not. You can try, but I don't know. Sorry.
+</details>
+
 ---
 
 ## What is remage?
 Copied from their official webside, *remage* is a modern simulation framework for low-background physics experiments. You can think of it as a well-constructed Python library that allows you to write codes with it to simulate laboratory equipment, design experiments, and collect data for your particle physics research.
+
+## Building Environment
+Now you already know what *remage* is for! So it's time to build a cozy house for this genie to perform her magic. 
+
+
+
+
+
+
+
 
 ## 📂 Step 0: The Workspace
 Before we begin, create a dedicated folder for your simulations on your computer and open it in **VS Code**. Open an integrated terminal in VS Code to run the following commands.
