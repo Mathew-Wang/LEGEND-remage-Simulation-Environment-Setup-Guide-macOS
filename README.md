@@ -1,20 +1,15 @@
 # 🚀 LEGEND remage Simulation Environment Setup Guide (macOS)
 
-This is a step-by-step tutorial/introduction for macOS users to set up an environment for [LEGEND remage](https://remage.readthedocs.io/en/stable/index.html) simulations, and actually run some rather easier examples. I hope this document is comprehensive and straightforward enough that even those who know basically nothing about dealing with terminals, creating environments, or coding via Python, are able to understand and utilize it.
+This is a step-by-step tutorial/introduction for macOS users to set up an environment for [LEGEND remage](https://remage.readthedocs.io/en/stable/index.html) simulations, and actually run some rather easier examples. I hope this document is comprehensive and straightforward enough that even those who know basically nothing about dealing with terminals, creating environments, or coding in Python, are able to understand and use it, without spending too much time digging through offical documentations from LEGEND and feeling lost.
 
-We will start all the way from the introduction of what remage is, to installing required packages and setting a proper environment, then go through 
+We will start all the way from an introduction to what remage is, then move on to installing required packages and setting up the proper environment. After that, we will walk through examples in [remage basic tutorial](https://remage.readthedocs.io/en/stable/tutorial.html). By completing these steps should help you become familiar with building/running simulations and prepare you to tackle more challenging tasks.
 
-
-
-
-
-
-
-Welcome! This is a zero-to-hero, step-by-step guide to setting up the LEGEND simulation environment (`remage`, `legend-pygeom-hpges`) on a Mac, specifically tailored for Apple Silicon (M1/M2/M3) users. 
-
-If you are trying to run the basic tutorials and keep running into nightmare errors, you are in the right place. Let's build your environment from scratch!
+So let's start, shall we?
 
 ---
+
+## What is remage?
+Copied from their official webside, *remage* is a modern simulation framework for low-background physics experiments. You can think of it as a well-constructed Python library that allows you to write codes with it to simulate laboratory equipment, design experiments, and collect data for your particle physics research.
 
 ## 📂 Step 0: The Workspace
 Before we begin, create a dedicated folder for your simulations on your computer and open it in **VS Code**. Open an integrated terminal in VS Code to run the following commands.
