@@ -1,8 +1,8 @@
 # 🚀 LEGEND remage Simulation Environment Setup Guide (macOS)
 
-This is a step-by-step tutorial for macOS users who basically know nothing about dealing with terminals, creating environments, or even coding via Python, to set up an environment for LEGEND remage simulations.
+This is a step-by-step tutorial/introduction for macOS users to set up an environment for [LEGEND remage](https://remage.readthedocs.io/en/stable/index.html) simulations, and actually run some rather easier examples. I hope this document is comprehensive and straightforward enough that even those who know basically nothing about dealing with terminals, creating environments, or coding via Python, are able to understand and utilize it.
 
-We will start all the way from 
+We will start all the way from the introduction of what remage is, to installing required packages and setting a proper environment, then go through 
 
 
 
