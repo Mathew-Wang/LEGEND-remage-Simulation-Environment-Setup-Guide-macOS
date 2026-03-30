@@ -28,9 +28,19 @@ Start your VS Code, and open the terminal in it. If you don't know where to find
 <img width="49%" height="1002" alt="terminal2" src="https://github.com/user-attachments/assets/f71c467f-79fc-4c80-abfc-0d66667978f5" />
 </p>
 
-In the terminal, you should find a string of text with a "%" at the end.
+In the terminal, you should find a string of text with a "%" at the end. By typing specific commands after "%", you get to interact with the terminal, thus being able to settle your computer (i.e. make you house cozy).
 
 ### 💻 Step 1: Install Homebrew
+Homebrew is a very powerful "package manager" for macOS, and you can think of it as the "App Store" for terminals. We need Homebrew to acquire packages and dependencies, so go to the website of [Homebrew](https://brew.sh) and copy the command. The command should look something like this:
+```bash
+$ /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+```
+Paste it right after that "%" in your terminal and press "Enter".
+
+<details>
+<summary> Don't paste that "$". </summary>
+The "$" at the beginning of commands is just a notation specifying that these commands should be run in terminals, not cells of files in your projects. In this case, your terminal should look something like "... % /bin/bash -c ..." before pressing Enter.
+</details>
 
 ### 🍺 Step 2: Install Dependencies
 
