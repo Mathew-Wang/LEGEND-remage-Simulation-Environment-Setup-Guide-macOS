@@ -68,7 +68,7 @@ It's completely normal that the typed letters are invisible. Don't panic, nothin
 
 #### Step 1.3 Add Homebrew to your Path
 
-Now there's only one step left for installing Homebrew: Scroll through your terminal and look for "===> Nest steps:". Find all commands start with *echo* or *eval*, paste and run them in the terminal ONE BY ONE.
+Now there's only one step left for installing Homebrew: Scroll through your terminal and look for **"===> Nest steps:"**. Find all commands start with *echo* or *eval*, paste and run them in the terminal ONE BY ONE.
 
 That is, you should find commands like
 
