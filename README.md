@@ -36,7 +36,7 @@ Start your VS Code, and open the terminal in it. If you don't know where to find
 <img width="45%" height="1007" alt="terminal2" src="https://github.com/user-attachments/assets/3e02f192-3b2a-48af-b434-d45a8c8507dd" />
 </p>
 
-In the terminal, you should find a string of text with a "%" at the end. By typing specific commands after "%", you get to interact with the terminal, thus being able to settle your computer (i.e. make you house cozy).
+In the terminal, you should find a string of text with a "%" at the end. By typing specific commands after "%", you get to interact with the terminal, thus being able to settle your computer.
 
 <br>
 
