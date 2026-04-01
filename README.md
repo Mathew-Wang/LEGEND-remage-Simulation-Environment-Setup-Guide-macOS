@@ -38,7 +38,7 @@ Start your VS Code, and open the terminal in it. If you don't know where to find
 
 </p>
 
-In the terminal, you should find a string of text with a "%" at the end. By typing specific commands after "%", you get to interact with the terminal, thus being able to settle your computer.
+In the terminal, you should find a string of text with a "%" in the end. By typing specific commands after "%", you get to interact with the terminal, thus being able to settle your computer.
 
 <br>
 
@@ -46,7 +46,7 @@ In the terminal, you should find a string of text with a "%" at the end. By typi
 
 #### Step 1.1: Homebrew Installing Command
 
-Homebrew is a very powerful "package manager" for macOS, and you can think of it as the "App Store" for terminals. We need Homebrew to acquire packages and dependencies, so go to the website of [Homebrew](https://brew.sh) and copy the command on home page. The command should look something like this:
+Homebrew is an extremely powerful "package manager" for macOS, and you can think of it as the "App Store" for terminals. We need Homebrew to acquire packages and dependencies, so go to the website of [Homebrew](https://brew.sh) and copy the command on home page. The command should look something like this:
 ```bash
 $ /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
@@ -109,10 +109,11 @@ and you have successfully installed all the dependencies needed to acquire packa
 
 <details>
 <summary> If you got plenty of time... </summary>
-The above command "brew install opencascade cgal gmp mpfr boost vtk" means
+The above command "brew install opencascade cgal gmp mpfr boost vtk" means that
 
-you use Homebrew (now you know why we need to install Homebrew first) to install dependencies including OpenCASCADE, CGAL, GMP, MPFR, Boost and VTK. These dependencies play fundamental rules in supporting 
+you use Homebrew (now you know why we need to install Homebrew first) to install dependencies including OpenCASCADE, CGAL, GMP, MPFR, Boost and VTK. These dependencies play fundamental rules in installing packages (e.g. legend-pygeom-hpges, legend-pygeom-tools, ...) in your rooms/folders.
 
+Also, since Homebrew and dependencies installed via Homebrew are directly built in your macOS(house), 
 </details>
 
 ## Create a Room/Folder
