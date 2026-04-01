@@ -97,14 +97,19 @@ Merely installing Homebrew in your computer is not enough. We also need to add H
 
 ### 🍺 Step 2: Install Dependencies
 
-Now you already have a powerful installing tool (i.e. Homebrew!), and it's time to get your cozy house done.
+Now you already have a powerful installing tool (i.e. Homebrew!), and it's time to get your cozy house done. Run the command below in your VS Code terminal:
 
 ```bash
 $ brew install opencascade cgal gmp mpfr boost vtk
 ```
 
+and you have successfully installed all the dependencies needed to acquire packages later. Your house is nicely settled.
+
 <details>
 <summary> If you got plenty of time... </summary>
+The above command "brew install opencascade cgal gmp mpfr boost vtk" means
+
+you use Homebrew (now you know why we need to install Homebrew first) to install dependencies including OpenCASCADE, CGAL, GMP, MPFR, Boost and VTK. These dependencies play fundamental rules in supporting 
 
 </details>
 
@@ -115,6 +120,8 @@ $ brew install opencascade cgal gmp mpfr boost vtk
 ### 🐍 Step 2: Create Python Virtual Environments
 
 ### 📦 Step 3: Install Packages
+
+These packages are in your room so for new rooms new installation. Homebrew, dependencies not the case.
 
 ## Running Simulations
 
