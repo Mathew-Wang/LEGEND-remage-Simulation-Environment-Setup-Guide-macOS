@@ -32,8 +32,10 @@ Before we really create a room/folder, we need to make sure our house is settled
 Start your VS Code, and open the terminal in it. If you don't know where to find, see below:
 
 <p align="center">
+
 <img width="45%" height="1009" alt="terminal1" src="https://github.com/user-attachments/assets/39021061-963e-4925-90c0-3a8ae046d9e1" />
 <img width="45%" height="1007" alt="terminal2" src="https://github.com/user-attachments/assets/3e02f192-3b2a-48af-b434-d45a8c8507dd" />
+
 </p>
 
 In the terminal, you should find a string of text with a "%" at the end. By typing specific commands after "%", you get to interact with the terminal, thus being able to settle your computer.
